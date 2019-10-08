@@ -10,7 +10,9 @@ import Protected from "./components/ProtectedRoute";
 function App() {
   return (
     <div className="App">
+      
       <Header />
+      
       <Router>
       
         <Link to="/"> Login</Link>
