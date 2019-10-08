@@ -15,7 +15,7 @@ function App() {
       
         <Link to="/"> Login</Link>
       
-        <Link to="/protected"> Protected Page </Link>
+        <Link to="/protected"> Protected </Link>
         
         <Route exact path="/" component={Login} />
         

@@ -5,7 +5,7 @@ import { axiosWithAuth } from "./axiosWithAuth";
 const NewFriend = props => {
   return (
     <Form>
-      Add New Friend
+      Add Friend
       <div>
         <div>
           <label>Name</label>

@@ -33,7 +33,7 @@ function Protected() {
           </div>
         ))
       ) : (
-        <h1> Loading, please wait</h1>
+        <h1> Loading....</h1>
       )}
       <NewFriend setFriends={setFriends} />
     </>
