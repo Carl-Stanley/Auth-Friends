@@ -1,5 +1,5 @@
 import { withFormik, Form, Field } from "formik";
-import React, { useState } from "react";
+import React from "react";
 import { axiosWithAuth } from "./axiosWithAuth";
 
 const NewFriend = props => {
